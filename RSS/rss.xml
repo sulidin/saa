@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sormadim Ama Anlatiyo</title>
+    <link>http://www.sormadimamaanlatiyo.com</link>
+    <language>tr</language>
+    <copyright>&#169; 2020 SAA </copyright>
+    <itunes:author>Alex, Loui, Jeffrey, Bob</itunes:author>
+    <description>
+     Dört eski dost karantina günlerinde boş boş oyun oynayıp geyik yaparken podcast kaydetmeye karar verir...
+    </description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Bob</itunes:name>
+      <itunes:email>sormadimki@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="http://www.sormadimamaanlatiyo.com/photos/saa25.png"
+    />
+    <itunes:category text="News">
+  
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>BOLUM-01 : Kobe Braynt, Corona, Plastik Poset !</title>
+      <description>
+      Kobe candır, 10k kosmak, Wuhenk den cıkma Corona, Çakal Jeffrey ve plastik poşetleri !
+      </description>
+      <itunes:image href="http://www.sormadimamaanlatiyo.com/photos/1.jpg" />
+      <enclosure 
+        length="26235127" 
+        type="audio/x-m4a" 
+        url="http://www.sormadimamaanlatiyo.com/episodes/episode-1.mp3"
+      />
+      <guid>aae20190418a</guid>
+      <pubDate>Sat, 27 Feb 2020 10:11:31 GMT</pubDate>
+      <itunes:duration>00:35:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+      <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>BOLUM-02 : Bel Cantasi, Bilinmeyen bir bilim dali, Zorunlu samimiyet !</title>
+      <description>
+      Sormadım Ama Anlatıyo ikinci bölümüyle cebinizde, kulaklıklarınızda, hoparlörlerinizde ve hatta bel çantanızda.
+      </description>
+      <itunes:image href="http://www.sormadimamaanlatiyo.com/photos/3.jpg" />
+      <enclosure 
+        length="57552716" 
+        type="audio/x-m4a" 
+        url="http://www.sormadimamaanlatiyo.com/episodes/episode-2.mp3"
+      />
+      <guid>aae20190418b</guid>
+      <pubDate>Sat, 29 Mar 2020 10:11:31 GMT</pubDate>
+      <itunes:duration>00:23:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+     <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>BOLUM-03 - Yersiz Övünmek, Başarının Sırrı</title>
+      <description>
+       Sormadım Ama Anlatıyo üçüncü bölümüyle karşınızda. Bu bölümde başarının sırrını ve övünmelere doyamayan karakteleri masaya yatırıp bi güzel şey yaptık.
+      </description>
+      <itunes:image href="http://www.sormadimamaanlatiyo.com/photos/8.jpg" />
+      <enclosure 
+        length="78984128" 
+        type="audio/x-m4a" 
+        url="http://www.sormadimamaanlatiyo.com/episodes/episode-3.mp3"
+      />
+      <guid>aae20190418c</guid>
+      <pubDate>Sat, 29 Apr 2020 10:11:31 GMT</pubDate>
+      <itunes:duration>00:32:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>BOLUM-04 : Ağzını ısırmak, Pintiler, Felaket 2020, Nasi bir arkadas ?</title>
+      <description>
+       Ağzını ısırabilir misin? Yabancılar ne kadar pintiler? Bu yıl başımıza daha ne gelebilir? Corona konusunda ne kadar gevşeğiz? Hepsinin cevabı bu bölümde!
+      </description>
+      <itunes:image href="http://www.sormadimamaanlatiyo.com/photos/6.jpg" />
+      <enclosure 
+        length="77449016" 
+        type="audio/x-m4a" 
+        url="http://www.sormadimamaanlatiyo.com/episodes/episode-4.mp3"
+      />
+      <guid>aae20190418d</guid>
+      <pubDate>Sat, 29 Aug 2020 10:11:31 GMT</pubDate>
+      <itunes:duration>00:32:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
